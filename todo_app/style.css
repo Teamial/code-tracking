@@ -239,12 +239,6 @@ ul li .task-content {
     padding: 8px 0;
 }
 
-ul li .task-content:hover {
-    background: rgba(255, 255, 255, 0.9);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 39, 101, 0.1);
-}
-
 ul li .task-text {
     flex-grow: 1;
     margin-right: 10px;
